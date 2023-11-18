@@ -6,7 +6,7 @@ LOCAL_MODULE_TAGS := optional
 
 LOCAL_MODULE := power_button
 
-LOCAL_SRC_FILES := always-visible-power-button
+LOCAL_SRC_FILES := power_button
 
 LOCAL_MODULE_CLASS := APPS
 
