@@ -4,9 +4,9 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_MODULE := Always-visible-power-button
+LOCAL_MODULE := power_button
 
-LOCAL_SRC_FILES := Always-visible-power-button
+LOCAL_SRC_FILES := always-visible-power-button
 
 LOCAL_MODULE_CLASS := APPS
 
